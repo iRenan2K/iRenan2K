@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iRenan2K
 - 👀 I’m interested in low-level programming and cybersecurity 
-- 🌱 I’m currently enrolled in a Computer Engineering course
+- 🌱 I’m currently learning Assembly, C, Python and Octave
 - 📫 I'm on LinkedIn, link on GitHub profile
